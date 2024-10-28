@@ -5,7 +5,9 @@ Project supervisors: Raffaele Argiento, Lucia Paci, Sirio Legramanti.
 
 Team members: P. Bogani, P. Botta, S. Caresana, R. Carrara, G. Corbo, L. Mainini
 
-Description
+---
+
+## Description
 The World Health Organization considers air pollution a major global environmental risk to human health. Only in the EU in 2020, a total of 238 000 premature deaths were linked to exposure to particulate matter. Our objective is to develop Bayesian-mixture-model-based clustering algorithms for environmental applications. Specifically, we focused our attention on PM10.
 
 Markdown
