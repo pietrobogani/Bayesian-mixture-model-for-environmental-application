@@ -28,5 +28,5 @@ The folder [code](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-en
 - The folder [data](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application/tree/main/code/data) containing the datasets containing the timeseries and the stations' information.
 All the code should be run setting the main folder of the repository as working directory.
 
-References
+## References
 In the folder [references](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application/tree/main/references) are located all the references we consulted to develop the analysis.
