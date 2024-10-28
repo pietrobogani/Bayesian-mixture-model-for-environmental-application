@@ -14,7 +14,7 @@ The World Health Organization considers air pollution a major global environment
 In the files Case study.Rmd, Data exploration.Rmd and Simulations.Rmd is possible to find all the code to reproduce the analysis done and described in the report.
 
 ## Documents
-In the folder documents are located the report of the project, the final presentation exposed on 14 February 2023 and the three pdf files obtained from the Rmarkdown of the three main chapters.
+In the folder [documents](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application/tree/main/documents) are located the report of the project, the final presentation exposed on 14 February 2023 and the three pdf files obtained from the Rmarkdown of the three main chapters.
 
 ## Code
 The folder code contains:
